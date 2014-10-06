@@ -1,4 +1,4 @@
-package com.sample.safekeyboard;
+package com.viizki.safekeyboard.sample;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -9,7 +9,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.feitian.safekeyboard.SafeKeyboard;
+import com.viizki.safekeyboard.SafeKeyboard;
 
 public class MyActivity extends Activity implements OnClickListener {
 
